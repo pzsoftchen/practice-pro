@@ -1,4 +1,6 @@
 rootProject.name = 'practice-pro'
 include 'spring-pro'
 include 'java-pro'
+include 'seata-pro'
+
 
